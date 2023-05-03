@@ -11,21 +11,21 @@
                 </li>
                 <li>
                     <a routerLink="carrinho">
-                        <i class="fa-solid fa-cart-shopping"></i>
+                        <img  id="cart"  src="assets/cart.png" >
                         Carrinho
                         <span class="badge-carinho">{{carrinhoService.obterCarrinho().length}}</span>
                     </a>
                 </li>
-                <li><a> Contato</a></li>
-                <li><a><i class="fa-brands fa-facebook"></i></a></li>
-                <li><a> <i class="fa-brands fa-instagram"></i></a></li>
-                <li><a> <i class="fa-brands fa-twitter"></i></a></li>
-                <li><a> <i class="fa-brands fa-linkedin"></i></a></li>
+                <li><a routerLink="contato"> Contato</a></li>
+                <li><a> <img class="redes" src="assets/face.png" ></a></li>
+                <li><a> <img class="redes" src="assets/instagram.png" ></a></li>
+                <li><a> <img class="redes" src="assets/twitter.png" ></a></li>
+                <li><a> <img class="redes" src="assets/linkedin.png" >  </a></li>
             </ul>
         </nav>
         <form class="search-form">
             <input type="text">
-            <button><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg></button>
+            <button><img class="redes" src="assets/search.png" ></button>
         </form>
     </div>
 </header>
