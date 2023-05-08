@@ -8,7 +8,7 @@
 }
 
 .main-header__title {
-    font-size: 92px;
+    font-size: 80px;
     letter-spacing: -1.5px;
 }
 
@@ -54,41 +54,14 @@
     color: white;
 }
 
-.search-form {
-    height: 44px;
-    display: flex;
-}
 
-.search-form input {
-    box-sizing: border-box;
-    height: 56px;
-    padding: 20px;
-    flex: 1;
-    background-color: var(--light-gray);
-    color: var(--gray);
-    border: none;
-    transition: all .3s ease-in-out;
-    font-size: 22px;
-}
 
-.search-form input:focus {
-    background-color: var(--blue);
-    outline: none;
-    color: #fff;
-}
 
-.search-form button {
-    width: 56px;
-    height: 56px;
-    background-color: var(--blue);
-    border: none;
-    font-size: 22px;
-}
 
 #cart {
     width: 18px;
 }
 
 .redes {
-    width: 28px;
+    width: 20px;
 }
