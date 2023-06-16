@@ -20,11 +20,6 @@ O projeto ZYX foi desenvolvido utilizando as seguintes tecnologias:
 - **languages**: HTML, CSS, TypeScript e Angular
 
 
-## Contribuindo
-
-Contribuições são bem-vindas! 
-
-
 ## Problemas e Sugestões
 
 Se você encontrar algum problema durante a utilização da aplicação ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue neste repositório. Ficaremos felizes em receber seu feedback e trabalhar em soluções para aprimorar o projeto.
