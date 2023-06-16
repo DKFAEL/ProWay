@@ -1,27 +1,35 @@
-# Proway
+# ZYX - Loja de Computadores
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+![ProWay Logo](https://github.com/DKFAEL/ProWay/blob/main/src/assets/logo.png)
 
-## Development server
+Este repositório contém o código-fonte e recursos relacionados ao projeto ZYX - uma loja de computadores online. O objetivo da ZYX é fornecer uma plataforma de e-commerce para compra de computadores, periféricos e componentes de hardware.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades
 
-## Code scaffolding
+- **Catálogo de Produtos**: Navegue por uma ampla variedade de produtos disponíveis na loja, incluindo desktops, laptops, periféricos e componentes de hardware. Cada produto possui uma página de detalhes com informações específicas, como descrição, especificações técnicas, imagens e preço.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Filtragem e Pesquisa**: Utilize recursos de filtragem e pesquisa para encontrar facilmente os produtos desejados. Filtrar por categoria, marca, preço e outras opções de seleção ajuda a refinar os resultados e encontrar os produtos mais relevantes.
 
-## Build
+- **Carrinho de Compras**: Adicione produtos ao carrinho de compras, visualize um resumo dos itens selecionados, ajuste as quantidades e remova produtos conforme necessário. O carrinho de compras oferece uma visão geral dos produtos selecionados antes de finalizar a compra.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tecnologias Utilizadas
 
-## Running end-to-end tests
+O projeto ZYX foi desenvolvido utilizando as seguintes tecnologias:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **languages**: HTML, CSS, TypeScript e Angular
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contribuindo
+
+Contribuições são bem-vindas! 
+
+
+## Problemas e Sugestões
+
+Se você encontrar algum problema durante a utilização da aplicação ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue neste repositório. Ficaremos felizes em receber seu feedback e trabalhar em soluções para aprimorar o projeto.
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser entrar em contato, você pode me encontrar no LinkedIn em [Rafael Nunes](https://www.linkedin.com/in/rafael-nunes-a7854a250/)..
