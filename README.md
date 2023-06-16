@@ -1,6 +1,5 @@
 # ZYX - Loja de Computadores
 
-![ProWay Logo](https://github.com/DKFAEL/ProWay/blob/main/src/assets/logo.png)
 
 Este repositório contém o código-fonte e recursos relacionados ao projeto ZYX - uma loja de computadores online. O objetivo da ZYX é fornecer uma plataforma de e-commerce para compra de computadores, periféricos e componentes de hardware.
 
